@@ -87,7 +87,7 @@
     "copy-webpack-plugin": "^5.0.4",
     "cross-env": "^7.0.3",
     "fs-extra": "^8.1.0",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "graphql.js": "^0.6.1",
     "mocha": "^8.2.1",
     "needle": "^2.4.0",
