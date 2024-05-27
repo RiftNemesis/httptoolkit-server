@@ -61,7 +61,7 @@
     "os-proxy-config": "^1.1.1",
     "portfinder": "^1.0.25",
     "registry-js": "^1.15.1",
-    "rimraf": "^2.6.2",
+    "rimraf": "^4.3.1",
     "tmp": "0.0.33",
     "tslib": "^1.9.3",
     "win-version-info": "^3.1.1"
